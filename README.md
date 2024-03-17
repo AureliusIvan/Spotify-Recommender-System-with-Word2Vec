@@ -1,0 +1,3 @@
+# Spotify Recommender System with Word2Vec
+## Introduction
+This project is a recommender system for Spotify songs. The system uses the Word2Vec model to find similar songs based on the song's lyrics. The system is implemented in Python and uses the Gensim library to train the Word2Vec model. The system uses the Spotify API to get the lyrics of the songs. The system is implemented in a Jupyter Notebook and is available on GitHub. The system is a content-based recommender system, which means that it recommends songs based on the song's content. The system is evaluated using the Mean Average Precision (MAP) metric
