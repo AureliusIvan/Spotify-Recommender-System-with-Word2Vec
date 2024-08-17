@@ -49,7 +49,7 @@ numpy==1.26.4
 opt-einsum==3.3.0
 optree==0.10.0
 packaging==24.0
-pandas==2.2.1
+pandas==2.2.2
 parso==0.8.3
 pexpect==4.9.0
 platformdirs==4.2.0
