@@ -9,7 +9,7 @@ certifi==2024.2.2
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.3.9
-comm==0.2.2
+comm==0.2.3
 coverage==7.4.4
 debugpy==1.8.1
 decorator==5.1.1
